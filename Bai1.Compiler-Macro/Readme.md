@@ -12,6 +12,7 @@ A) Quá trình biên dịch gồm 4 giai đoạn
 4. Linker (tạo ra file.exe)
 	- Mỗi project có nhiều file.c muốn biên dịch được thì phải tạo liên kết chúng lại
 	- Tạo mỗi file.o cho mỗi file.c rồi sau đó liên kết lại để được file.exe
+
 B) Macro là gì?
 Có 3 loại Macro
 - Chỉ thị bao hàm tiệp (#include)
